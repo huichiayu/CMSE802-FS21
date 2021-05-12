@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Welcome to CMSE802
+## Methods of Computation and Data Analysis 
 
 You can use the [editor on GitHub](https://github.com/huichiayu/CMSE802-FS21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
